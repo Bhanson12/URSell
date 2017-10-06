@@ -1,0 +1,15 @@
+URSell
+
+Functional Requirements
+The product is a buy and sell website. To use the website the user will have to sign up.
+Once the user is signed up they will have access to creating posts, commenting on posts, and 
+contacting other users. The website will have four main pages. A log in, create account, recent 
+listings, and user page.  The log in page will display the website logo as well as allow the user to 
+log in by entering username and password. On the create account page the user will have to enter an 
+email, username, and password. The recent listing page will show the most recent posts. This page 
+will also include clickable categories such as textbooks, clothes, furniture, etc. A search bar will 
+also be on this page to allow the user to find a specific item. When the user types in the item name 
+the page will display the matching items. The user page will contain all the users’ posts most 
+recent first, username, and contact info. Each page will have a navigation bar that includes 
+username, log out button, home button, and website logo. The home button will take you back to 
+listings page and the log out button will take you back to log in page.
